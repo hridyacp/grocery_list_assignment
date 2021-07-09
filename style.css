@@ -1,0 +1,46 @@
+h1{
+    margin-left: 45%;
+    margin-top: 5%;
+}
+.wrapper{
+        text-align: center;
+        margin-top: 2%;
+    }
+    
+.button {
+        position: absolute;
+        margin-bottom: 5%;
+    }
+img{
+    margin-left: 30%;
+    margin-top: 3%;
+}
+.container {
+    height: 200px;
+    position: relative;
+  }
+  
+  .vertical-center {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+  }
+table {
+    margin-top: 3%;
+    width: 50%;
+   text-align: center;
+   margin-left: 28%;
+}
+th {
+    background: lightblue;
+    font-weight: bold;
+    padding: 6px;
+    outline: thin solid black;
+}
+td {
+    background: lightblue;
+    padding: 6px;
+    outline: thin solid black;
+}

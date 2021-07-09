@@ -1,0 +1,84 @@
+ {
+    "people":[
+        {
+            "slno": "1",
+            "item": "Apple",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Fruits",
+            "notes":"Crunchy"
+        },
+        {
+            "slno": "2",
+            "item": "Orange",
+            "quantity":"1",
+            "unit":"Kg",
+            "department":"Fruits",
+            "notes":"Sweet"
+        },
+    {
+        "slno": "3",
+        "item": "Onion",
+        "quantity":"2",
+        "unit":"Kg",
+        "department":"Vegetables",
+            "notes":"Red Medium"
+    },
+    {
+        "slno": "4",
+        "item": "Carrots",
+        "quantity":"2",
+        "unit":"Kg",
+        "department":"Vegetables",
+            "notes":"Orange Medium"
+    },
+    {
+        "slno": "5",
+        "item": "Oil",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Oil & Ghee",
+            "notes":"Pure Coconut oil"
+    },
+    {
+        "slno": "6",
+        "item": "Rice",
+        "quantity":"5",
+        "unit":"Kg",
+        "department":"Rice",
+            "notes":"Matta rice"
+    },
+    {
+        "slno": "7",
+        "item": "Thuavar daal",
+        "quantity":"2",
+        "unit":"Kg",
+        "department":"Pulses",
+            "notes":"Organic"
+    },
+    {
+        "slno": "8",
+        "item": "Moong daal",
+        "quantity":"1",
+        "unit":"Kg",
+        "department":"Pulses",
+            "notes":"Organic medium"
+    },
+    {
+        "slno": "9",
+        "item": "Cake Mix",
+        "quantity":"1",
+        "unit":"Pck",
+        "department":"Baking Essentials",
+            "notes":"Crust & Crumb"
+    },
+    {
+        "slno": "10",
+        "item": "Egg",
+        "quantity":"1",
+        "unit":"Dz",
+        "department":"Egg",
+            "notes":"Chicken egg"
+    }
+    ]
+}
